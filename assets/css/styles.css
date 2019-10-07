@@ -1,0 +1,61 @@
+*{
+    font-family: "open sans";
+    font-weight: 400;
+}
+
+.bg-pink{
+    background-color: #E83E8C;
+}
+
+.logo{
+    height:52px;
+}
+
+.tex-h1-container{
+    padding: 0px;
+}
+
+h1{
+    color:#707070;
+    padding:0px;
+    font-weight: 700;
+}
+
+h5{
+    font-weight: 700;
+    
+}
+
+.nav-container{
+    padding: 0% 5%;
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    display: inline-block;
+    margin:0px 10px 0px 10px;
+}
+
+.pay-cont{
+    align-items: center;
+    width: 65%;
+}
+
+.payment{
+    font-weight: 700;
+}
+
+.logo-footer-cont{
+    text-align: center;
+}
+
+.logo-footer{
+    height: 100px;
+}
+
+.bg-info{
+    background: #17A2B8;
+}
